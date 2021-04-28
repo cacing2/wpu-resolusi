@@ -1,11 +1,13 @@
-RENCANA KONTE KPU
+RENCANA KONTEN KPU
 
 -Javascript
 *ES6
 * Framework Javascript
-^Angular
+^Vue
 ^React
+-Struktur Data Dasar
 -PHP Frameworks
-^Laravel
+^ Laravel
 -Interview
 -Vlogs
+-Python
